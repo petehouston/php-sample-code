@@ -1,0 +1,3 @@
+Article: Create zip archive in PHP
+Author: Pete Houston
+URL: https://blog.petehouston.com/create-zip-archive-in-php
